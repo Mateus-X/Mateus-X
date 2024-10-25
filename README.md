@@ -1,5 +1,3 @@
-<p align="center"><strong><em>Trying to change the world with technology</em></strong></p>
-
 <h1 align="center">Mateus de Castro Xavier</h1>
 
 <p><img width="30" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> &nbsp;&nbsp;Olá, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas na UFPR.<br><br> 
